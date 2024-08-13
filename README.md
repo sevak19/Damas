@@ -14,8 +14,8 @@ O código recebe como entrada o tipo de tabuleiro, as jogadas dos dois jogadores
 
 8 
 
-[(C3, D4), (D4, B6), (E3, D4), (D4, F6), (G3, F4), (H2, F4), (F4, E5), (E5, C3)]  
-[(B6, C5), (C7, A5), (F6, E5), (G7, E5), (E5, G3), (D6, C5), (C5, D4), (E7, F6)]
+[(C3,D4),(D4,B6),(E3,D4),(D4,F6),(G3,F4),(H2,F4),(F4,E5),(E5,C3)]  
+[(B6,C5),(C7,A5),(F6,E5),(G7,E5),(E5,G3),(D6,C5),(C5,D4),(E7,F6)]
 
 **Saída 1:**
 
