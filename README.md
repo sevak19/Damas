@@ -3,6 +3,8 @@
 # Descrição
 Este projeto desenvolve uma simulação do jogo de damas, explorando diferentes dimensões de tabuleiro (8x8, 10x10 e 12x12) e adaptando regras simplificadas para o código. A simulação visa prever os possíveis desfechos de partidas reais, determinando o vencedor, o estado final do tabuleiro e o número de peças eliminadas de cada lado.
 
+Codigo estilo Verde / BEECROWD (Apenas saidas do resultado / correcao das saidas por IA);
+
 # Funcionamento
 O código recebe como entrada o tipo de tabuleiro, as jogadas dos dois jogadores, e processa os movimentos conforme as regras específicas definidas. As peças são movimentadas em direções diagonais, com a captura sendo possível quando há um espaço vago após a peça adversária. O jogo termina quando todas as jogadas são executadas corretamente ou quando ocorre um movimento inválido, sendo exibido o estado final do tabuleiro e o vencedor.
 
